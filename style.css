@@ -289,7 +289,7 @@ color: red;
         top: 110px;
     }
     .sayfa-1 ul li{
-        font-size:24px ;
+        font-size:15px ;
     }
     .number-sayfa{
         right:40%;
@@ -297,7 +297,8 @@ color: red;
     .price_sayfa1{
         position: relative;
         top: -239px;
-        right:110%;
+        right:100%;
+        
     }
     .sayfa-2 ul{
         position: absolute;
